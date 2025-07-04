@@ -12,7 +12,7 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
-![matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)
+![matplotlib][(https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg)]
 ![Tkinter](https://img.shields.io/badge/-Tkinter-05122A?style=flat)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)
