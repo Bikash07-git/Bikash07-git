@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Bikash Sagar Koiri
 
-<!--
-**Bikash07-git/Bikash07-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Tech CSE @ BIT Mesra  
+🧠 AI/ML Enthusiast | 🧩 DSA Solver | 💻 Python & C++ Coder 
+🚀 Aspiring Data Scientist
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
+![Tkinter](https://img.shields.io/badge/-Tkinter-05122A?style=flat)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)
+
+---
+
+## 🛠️ Projects
+
+🌟 [Rock Paper Scissors Game](https://github.com/Bikash07-git/rock_paper_scissors)  
+→ A Python desktop game with countdown timer, match history, and reset features.
+
+🚧 More cool projects coming soon — stay tuned!
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bikash07-git&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash07-git&layout=compact&theme=radical" width="45%" />
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+![Bikash's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bikash07-git&theme=github-compact)
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/bikashsk26)
+- 📩 Email: bikashsagar0426@gmail.com
+
+---
+
+> “Code like a poet. Solve like a scientist.”
