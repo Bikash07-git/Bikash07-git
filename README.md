@@ -18,15 +18,6 @@
 
 ---
 
-## 🛠️ Projects
-
-🌟 [Rock Paper Scissors Game](https://github.com/Bikash07-git/rock_paper_scissors)  
-→ A Python desktop game with countdown timer, match history, and reset features.
-
-🚧 More cool projects coming soon — stay tuned!
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
