@@ -1,43 +1,55 @@
-# 👋 Hi, I'm Bikash Sagar Koiri
-
-🎓 M.Tech CSE @ BIT Mesra  
-🧠 AI/ML Enthusiast | 🧩 DSA Solver | 💻 Python & C++ Coder 
-🚀 Aspiring Data Scientist
-
----
-
-## 🔧 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
-![Tkinter](https://img.shields.io/badge/-Tkinter-05122A?style=flat)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)
-
----
-
-## 📈 GitHub Stats
+<h1 align="center">Hi 👋, I'm Bikash Sagar Koiri</h1>
+<h3 align="center">🚀 M.Tech CSE | AI/ML & Dev Enthusiastn</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bikash07-git&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash07-git&layout=compact&theme=radical" width="45%" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Always+learning+new+things;Building+data-driven+apps;Competitive+programmer;Loves+clean+code&center=true&width=440&height=45&color=00ADB5&vCenter=true&size=22">
 </p>
 
 ---
 
-## 🔥 Contribution Graph
-
-![Bikash's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bikash07-git&theme=github-compact)
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/bikashsk26)
-- 📩 Email: bikashsagar0426@gmail.com
+### 🌱 Currently:
+- 🎓 Pursuing **M.Tech in Computer Science and Engineering** at **BIT Mesra, Ranchi**
+- 👨‍💻 Building **Desktop Apps** with Python (`customtkinter`)
+- 💻 Exploring **Data Science**, Machine Learning & Cloud
 
 ---
 
-> “Code like a poet. Solve like a scientist.”
+### 🔧 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Tkinter](https://img.shields.io/badge/-Tkinter-FFDE57?style=for-the-badge&logo=python&logoColor=black)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=plotly)
+![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql)
+
+---
+
+### 📌 Projects
+
+| 🧩 Project | 🔗 Link | 📄 Description |
+|-----------|---------|----------------|
+| 🔐 Password Generator | [View Repo](https://github.com/Bikash07-git/PasswordGenerator) | CustomTkinter GUI app with password strength meter, clipboard copy & save-to-file |
+| ✊ Rock Paper Scissors Game | [View Repo](https://github.com/Bikash07-git/Rock-Paper-Scissors) | Fun desktop game with restart button, countdown & stylish UI |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bikash07-git&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Bikash07-git&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikashsk26/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Bikash07-git)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bikashsagar0426@gmail.com)
+
+---
+
+> 🚀 “Code. Learn. Build. Repeat.” — Keep pushing forward!
