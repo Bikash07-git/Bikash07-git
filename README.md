@@ -2,7 +2,7 @@
 <h3 align="center">🚀 M.Tech CSE | AI/ML & Dev Enthusiastn</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Always+learning+new+things;Building+data-driven+apps;Competitive+programmer;Loves+clean+code&center=true&width=440&height=45&color=00ADB5&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Always+learning+new+things;Building+data-driven+apps;Loves+clean+code&center=true&width=440&height=45&color=00ADB5&vCenter=true&size=22">
 </p>
 
 ---
@@ -32,15 +32,32 @@
 |-----------|---------|----------------|
 | 🔐 Password Generator | [View Repo](https://github.com/Bikash07-git/PasswordGenerator) | CustomTkinter GUI app with password strength meter, clipboard copy & save-to-file |
 | ✊ Rock Paper Scissors Game | [View Repo](https://github.com/Bikash07-git/Rock-Paper-Scissors) | Fun desktop game with restart button, countdown & stylish UI |
+| 🎯 Hangman Game (GUI) | [View Repo](https://github.com/Bikash07-git/hangman-game-python) | CustomTkinter-based hangman game with ASCII art, score tracking, multi-round support, and external word file |
+
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bikash07-git&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Bikash07-git&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bikash07-git&show_icons=true&count_private=true&hide_title=true&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Bikash07-git&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash07-git&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+<!-- 🟩 Contribution Calendar -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bikash07-git&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bikash07-git&theme=tokyonight" width="90%" />
+</p>
+
+
 
 ---
 
