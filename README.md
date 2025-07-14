@@ -8,8 +8,8 @@
 ---
 
 ### 🌱 Currently:
-- 🎓 Pursuing M.Tech in Computer Science and Engineering at BIT Mesra, Ranchi
-- 👨‍💻 Building Desktop Apps with Python
+- 🎓 Pursuing **M.Tech in Computer Science and Engineering** at **BIT Mesra, Ranchi**
+- 👨‍💻 Building **Desktop Apps** with Python 
 - 💻 Exploring Data Science, Machine Learning & Cloud
 
 ---
@@ -31,9 +31,9 @@
 | 🧩 Project | 🔗 Link | 📄 Description |
 |-----------|---------|----------------|
 | 🔐 Password Generator | [View Repo](https://github.com/Bikash07-git/PasswordGenerator) | CustomTkinter GUI app with password strength meter, clipboard copy & save-to-file |
-| ✊ Rock Paper Scissors Game | [View Repo](https://github.com/Bikash07-git/Rock-Paper-Scissors) | Fun desktop game with restart button, countdown & stylish UI |
-| 🎯 Hangman Game (GUI) | [View Repo](https://github.com/Bikash07-git/hangman-game-python) | CustomTkinter-based hangman game with ASCII art, score tracking, multi-round support, and external word file |
-| 🛡️ Cipher_Text | [View Repo](https://github.com/Bikash07-git/Cipher_Text) | Lightweight Caesar Cipher-based desktop app built with CustomTkinter. Allows encryption/decryption with shift keys in a modern GUI 
+| ✊ Rock Paper Scissors Game | [View Repo](https://github.com/Bikash07-git/rock-paper-scissors) | Fun desktop game with restart button, countdown & stylish UI |
+| 🎯 Hangman Game (GUI) | [View Repo](https://github.com/Bikash07-git/Hangman-Game-Python) | CustomTkinter-based hangman game with ASCII art, score tracking, multi-round support, and external word file |
+| 🛡️ Cipher_Text | [View Repo](https://github.com/Bikash07-git/Cipher_Text) | Lightweight Caesar Cipher-based desktop app built with CustomTkinter. Allows encryption/decryption with shift keys in a modern GUI |
 
 ---
 
@@ -50,10 +50,10 @@
 
 ---
 
-### 📈 Contribution & Activity Graph
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bikash07-git&theme=tokyo-night&hide_border=true&area=true&custom_title=✨ My+Contribution+Graph+✨" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Bikash07-git&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
