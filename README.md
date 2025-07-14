@@ -8,7 +8,7 @@
 ---
 
 ### 🌱 Currently:
-- 🎓 Pursuing M.Tech in Computer Science and Engineering** at BIT Mesra, Ranchi
+- 🎓 Pursuing M.Tech in Computer Science and Engineering at BIT Mesra, Ranchi
 - 👨‍💻 Building Desktop Apps with Python
 - 💻 Exploring Data Science, Machine Learning & Cloud
 
