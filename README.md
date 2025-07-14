@@ -24,17 +24,6 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=plotly)
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql)
 
----
-
-### 📌 Projects
-
-| 🧩 Project | 🔗 Link | 📄 Description |
-|-----------|---------|----------------|
-| 🔐 Password Generator | [View Repo](https://github.com/Bikash07-git/PasswordGenerator) | CustomTkinter GUI app with password strength meter, clipboard copy & save-to-file |
-| ✊ Rock Paper Scissors Game | [View Repo](https://github.com/Bikash07-git/rock-paper-scissors) | Fun desktop game with restart button, countdown & stylish UI |
-| 🎯 Hangman Game (GUI) | [View Repo](https://github.com/Bikash07-git/Hangman-Game-Python) | CustomTkinter-based hangman game with ASCII art, score tracking, multi-round support, and external word file |
-| 🛡️ Cipher_Text | [View Repo](https://github.com/Bikash07-git/Cipher_Text) | Lightweight Caesar Cipher-based desktop app built with CustomTkinter. Allows encryption/decryption with shift keys in a modern GUI |
-
 
 ---
 
