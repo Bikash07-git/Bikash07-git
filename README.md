@@ -2,14 +2,14 @@
 <h3 align="center">🚀 M.Tech CSE | AI/ML & Dev Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Always+learning+new+things;Building+data-driven+apps;Loves+clean+code&center=true&width=440&height=45&color=00ADB5&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Always+learning+new+things;Building+data-driven+apps;Loves+clean+code" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌱 Currently:
 - 🎓 Pursuing **M.Tech in Computer Science and Engineering** at **BIT Mesra, Ranchi**
-- 👨‍💻 Building **Desktop Apps** with Python
+- 👨‍💻 Building **Desktop Apps** with Python (`customtkinter`)
 - 💻 Exploring **Data Science**, Machine Learning & Cloud
 
 ---
@@ -34,24 +34,32 @@
 | ✊ Rock Paper Scissors Game | [View Repo](https://github.com/Bikash07-git/Rock-Paper-Scissors) | Fun desktop game with restart button, countdown & stylish UI |
 | 🎯 Hangman Game (GUI) | [View Repo](https://github.com/Bikash07-git/hangman-game-python) | CustomTkinter-based hangman game with ASCII art, score tracking, multi-round support, and external word file |
 | 🛡️ Cipher_Text | [View Repo](https://github.com/Bikash07-git/Cipher_Text) | Lightweight Caesar Cipher-based desktop app built with CustomTkinter. Allows encryption/decryption with shift keys in a modern GUI |
+| 🧠 ML-Based Projects | [View Repo](https://github.com/Bikash07-git/ML-Projects) | Collection of basic to intermediate machine learning experiments and model implementations in Python |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bikash07-git&show_icons=true&count_private=true&hide_title=true&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Bikash07-git&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bikash07-git&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Bikash07-git&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash07-git&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash07-git&layout=compact&theme=tokyonight&hide_progress=false&langs_count=8" width="48%" />
 </p>
 
-<!-- 🟩 Contribution Calendar -->
+---
+
+### 📈 Contribution & Activity Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bikash07-git&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bikash07-git&theme=tokyo-night&hide_border=true&area=true&custom_title=✨ My+Contribution+Graph+✨" />
 </p>
+
+---
+
+### 📋 Profile Summary Card
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bikash07-git&theme=tokyonight" width="90%" />
