@@ -53,8 +53,9 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Bikash07-git&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bikash07-git&theme=tokyo-night&area=true&hide_border=true" />
 </p>
+
 
 ---
 
