@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bikash Sagar Koiri</h1>
-<h3 align="center">🚀 M.Tech CSE | AI/ML & Dev Enthusiastn</h3>
+<h3 align="center">🚀 M.Tech CSE | AI/ML & Dev Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Always+learning+new+things;Building+data-driven+apps;Loves+clean+code&center=true&width=440&height=45&color=00ADB5&vCenter=true&size=22">
@@ -9,7 +9,7 @@
 
 ### 🌱 Currently:
 - 🎓 Pursuing **M.Tech in Computer Science and Engineering** at **BIT Mesra, Ranchi**
-- 👨‍💻 Building **Desktop Apps** with Python (`customtkinter`)
+- 👨‍💻 Building **Desktop Apps** with Python
 - 💻 Exploring **Data Science**, Machine Learning & Cloud
 
 ---
@@ -33,7 +33,7 @@
 | 🔐 Password Generator | [View Repo](https://github.com/Bikash07-git/PasswordGenerator) | CustomTkinter GUI app with password strength meter, clipboard copy & save-to-file |
 | ✊ Rock Paper Scissors Game | [View Repo](https://github.com/Bikash07-git/Rock-Paper-Scissors) | Fun desktop game with restart button, countdown & stylish UI |
 | 🎯 Hangman Game (GUI) | [View Repo](https://github.com/Bikash07-git/hangman-game-python) | CustomTkinter-based hangman game with ASCII art, score tracking, multi-round support, and external word file |
-
+| 🛡️ Cipher_Text | [View Repo](https://github.com/Bikash07-git/Cipher_Text) | Lightweight Caesar Cipher-based desktop app built with CustomTkinter. Allows encryption/decryption with shift keys in a modern GUI |
 
 ---
 
@@ -56,8 +56,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bikash07-git&theme=tokyonight" width="90%" />
 </p>
-
-
 
 ---
 
