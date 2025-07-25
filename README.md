@@ -49,19 +49,6 @@
 
 ---
 
-### 🚀 Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🔗 [Custom CRM Platform](#) | Lifecycle automation system with dashboard, notifications, and third-party integrations | Python, Odoo, SQL, REST APIs |
-| 🔗 [Distributed URL Shortener](#) | Scalable service with sharded DB and caching, built with DSA logic | C++, Java, AWS |
-| 🔗 [Real-Time E-Commerce System](#) | Full-stack MERN app with auth, payments, and admin dashboard | MongoDB, Express, React, Node.js, AWS |
-| 🔗 [Advanced CPU Scheduler](#) | Reduced context switching using custom load-balancing logic | DSA, OS, Multithreading |
-
-> *(You can update the `#` with actual repo links later)*
-
----
-
 ### 🏆 Achievements
 
 - 🥇 **Top 10%** in Google Kick Start & CodeJam (2023)
@@ -96,4 +83,3 @@
 ---
 
 > 🚀 “Design systems. Write code. Fix failures. Repeat.”
-
