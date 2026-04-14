@@ -23,20 +23,52 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 
+---
+
 #### 📊 Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-#### 📈 BI & Tools
+---
+
+#### 📈 Business Intelligence & Analytics
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Power Query](https://img.shields.io/badge/-PowerQuery-217346?style=for-the-badge)
+![DAX](https://img.shields.io/badge/-DAX-F2C811?style=for-the-badge)
 
-#### 🤖 Machine Learning
+---
+
+#### 🗄️ Databases & Data Handling
+![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+#### 🤖 Machine Learning & AI
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![SHAP](https://img.shields.io/badge/-SHAP-FF6F00?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-AA4A44?style=for-the-badge)
+
+---
+
+#### ⚙️ Tools & Development Environment
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github)
+
+---
+
+#### ☁️ Cloud & Deployment (Optional but Powerful)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
