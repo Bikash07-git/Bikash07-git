@@ -1,45 +1,75 @@
 <h1 align="center">Hi 👋, I'm Bikash Sagar Koiri</h1>
-<h3 align="center">🚀 M.Tech CSE | AI/ML & Dev Enthusiast</h3>
+<h3 align="center">🚀 Data Analyst | Machine Learning | Power BI | Python</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Always+learning+new+things;Building+data-driven+apps;Loves+clean+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=650&lines=Turning+Data+into+Insights;Building+ML+Pipelines+%26+Dashboards;Data+Analysis+%7C+Power+BI+%7C+Python" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌱 Currently:
-- 🎓 Pursuing **M.Tech in Computer Science and Engineering** at **BIT Mesra, Ranchi**
-- 👨‍💻 Building **Desktop Apps** with Python 
-- 💻 Exploring Data Science, Machine Learning & Cloud
+### 👨‍💻 Professional Summary
+
+- 📊 Data Analyst with experience in **EDA, Machine Learning & Business Intelligence**
+- 🧠 Skilled in **Python, SQL, Power BI, and Statistical Analysis**
+- 🔍 Strong at **extracting insights from complex datasets**
+- 📈 Focused on **data-driven decision making & real-world impact**
 
 ---
 
-### 🔧 Tech Stack
+### 🧰 Tech Stack
 
-#### 💻 Programming Languages & Libraries
+#### 💻 Programming & Data Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 📊 Data Science & Visualization
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+#### 📊 Data Analysis & Visualization
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?style=for-the-badge)
 
-#### 🤖 Machine Learning & Deep Learning
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-#### 🖼️ GUI & Tools
-![Tkinter](https://img.shields.io/badge/-Tkinter-FFDE57?style=for-the-badge&logo=python&logoColor=black)
-![customtkinter](https://img.shields.io/badge/-CustomTkinter-1E1E1E?style=for-the-badge&logo=python&logoColor=white)
+#### 📈 BI & Tools
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+#### 🤖 Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![SHAP](https://img.shields.io/badge/-SHAP-FF6F00?style=for-the-badge)
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Key Projects
+
+#### 📊 End-to-End Sales Analytics
+- Processed **64K+ rows dataset** using Python & SQL  
+- Built **Power BI dashboard (Revenue, Profit, AOV, Trends)**  
+- Identified key insights like:
+  - Wholesale → **54% sales contribution**
+  - California → **$230M revenue**
+- Enabled **data-driven campaign & inventory decisions**
+
+---
+
+#### 🏥 Chronic Kidney Disease Prediction
+- Built ML pipeline improving accuracy **87% → 93%**
+- Used **Decision Tree, Random Forest, Logistic Regression**
+- Applied **SHAP for explainability**
+- Ensured **zero data leakage & proper validation**
+
+---
+
+### 📚 Research Work
+
+#### 🎤 Voice Pathology Detection (IEEE ETAACT’26)
+- Built **PAS Framework using SVM + MFCC + LPCC + Formants**
+- Dataset: **3,677 voice samples**
+- Achieved **87.32% accuracy**
+- Outperformed baseline by **4.17%**
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bikash07-git&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=tokyonight" width="48%" />
@@ -47,24 +77,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash07-git&layout=compact&theme=tokyonight&hide_progress=false&langs_count=8" width="48%" />
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bikash07-git&theme=tokyo-night&area=true&hide_border=true" />
-</p>
-
-
----
-
-### 📋 Profile Summary Card
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bikash07-git&theme=tokyonight" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash07-git&layout=compact&theme=tokyonight&langs_count=8" width="48%" />
 </p>
 
 ---
@@ -73,8 +86,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikashsk26/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Bikash07-git)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bikashsagar0426@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sagarbikash97@gmail.com)
 
 ---
 
-> 🚀 “Code. Learn. Build. Repeat.” — Keep pushing forward!
+> 🚀 “Turning raw data into meaningful insights that drive decisions.”
