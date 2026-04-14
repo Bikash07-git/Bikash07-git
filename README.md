@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bikash Sagar Koiri</h1>
-<h3 align="center">🚀 Data Analyst | Machine Learning | Power BI | Python</h3>
+<h3 align="center">🚀 Data Analyst | Machine Learning | Artificial Intelligence | Power BI | Python</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=650&lines=Turning+Data+into+Insights;Building+ML+Pipelines+%26+Dashboards;Data+Analysis+%7C+Power+BI+%7C+Python" alt="Typing SVG" />
@@ -21,6 +21,7 @@
 #### 💻 Programming & Data Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 
 #### 📊 Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
@@ -36,36 +37,6 @@
 #### 🤖 Machine Learning
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![SHAP](https://img.shields.io/badge/-SHAP-FF6F00?style=for-the-badge)
-
----
-
-### 🚀 Key Projects
-
-#### 📊 End-to-End Sales Analytics
-- Processed **64K+ rows dataset** using Python & SQL  
-- Built **Power BI dashboard (Revenue, Profit, AOV, Trends)**  
-- Identified key insights like:
-  - Wholesale → **54% sales contribution**
-  - California → **$230M revenue**
-- Enabled **data-driven campaign & inventory decisions**
-
----
-
-#### 🏥 Chronic Kidney Disease Prediction
-- Built ML pipeline improving accuracy **87% → 93%**
-- Used **Decision Tree, Random Forest, Logistic Regression**
-- Applied **SHAP for explainability**
-- Ensured **zero data leakage & proper validation**
-
----
-
-### 📚 Research Work
-
-#### 🎤 Voice Pathology Detection (IEEE ETAACT’26)
-- Built **PAS Framework using SVM + MFCC + LPCC + Formants**
-- Dataset: **3,677 voice samples**
-- Achieved **87.32% accuracy**
-- Outperformed baseline by **4.17%**
 
 ---
 
