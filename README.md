@@ -16,6 +16,15 @@
 
 ---
 
+### 📌 What I Do
+
+- 📊 Analyze data to extract business insights  
+- 🤖 Build ML models for prediction & decision-making  
+- 📈 Create dashboards using Power BI  
+- 🧠 Work on end-to-end data pipelines  
+
+---
+
 ### 🧰 Tech Stack
 
 #### 💻 Programming & Data Tools
@@ -66,7 +75,7 @@
 
 ---
 
-#### ☁️ Cloud & Deployment (Optional but Powerful)
+#### ☁️ Cloud & Deployment
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
