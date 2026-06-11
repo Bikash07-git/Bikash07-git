@@ -53,16 +53,21 @@
 
 #### 🗄️ Databases & Data Handling
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
 #### 🤖 Machine Learning & AI
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![SHAP](https://img.shields.io/badge/-SHAP-FF6F00?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![SVM](https://img.shields.io/badge/-SVM-FF6F00?style=for-the-badge)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-AA4A44?style=for-the-badge)
+
+---
+
+#### 🎵 Signal Processing & Research
+![MFCC](https://img.shields.io/badge/-MFCC-4B8BBE?style=for-the-badge)
+![LPCC](https://img.shields.io/badge/-LPCC-3776AB?style=for-the-badge)
+![Audio Signal Processing](https://img.shields.io/badge/-Audio_Signal_Processing-FF6F00?style=for-the-badge)
 
 ---
 
@@ -72,12 +77,6 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github)
-
----
-
-#### ☁️ Cloud & Deployment
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
