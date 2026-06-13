@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bikash Sagar Koiri</h1>
 
-<h3 align="center">🚀 Data Analyst | Machine Learning Enthusiast | Artificial Intelligence Researcher</h3>
+<h3 align="center">🚀 Data Analyst | Machine Learning Enthusiast | Artificial Intelligence | Researcher</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=750&lines=Turning+Data+into+Business+Insights;Building+Machine+Learning+Solutions;Power+BI+%7C+Python+%7C+SQL+%7C+AI;M.Tech+CSE+Student+at+BIT+Mesra;Data+Analytics+%7C+Business+Intelligence" alt="Typing SVG" />
