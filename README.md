@@ -124,14 +124,20 @@
 </p>
 
 ---
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Bikash07-git&show_icons=true&theme=tokyonight"/>
 
-## 🏆 GitHub Trophies
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=Bikash07-git&theme=tokyonight"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bikash07-git&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
-</p>
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash07-git&layout=compact&theme=tokyonight"/>
 
----
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bikash07-git&theme=tokyo-night"/>
+
+<!-- Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bikash07-git&theme=tokyonight"/>
 
 ## 📊 Contribution Graph
 
