@@ -1,11 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=220&section=header&text=Bikash%20Sagar%20Koiri&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%F0%9F%9A%80%20Data%20Analyst%20%7C%20Machine%20Learning%20%7C%20AI%20%7C%20Researcher&descFontSize=18&descAlignY=60&descAlign=50" width="100%" />
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/bikashsk26/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:sagarbikash97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-    <a href="https://github.com/Bikash07-git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
 
   <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Turning+Data+into+Business+Insights;Building+Machine+Learning+Solutions;Power+BI+%7C+Python+%7C+SQL+%7C+AI;M.Tech+CSE+Student+at+BIT+Mesra;Data+Analytics+%7C+Business+Intelligence" alt="Typing SVG" />
