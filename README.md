@@ -22,22 +22,6 @@
 
 ---
 
-## 🌟 Recent Achievement
-
-🚀 Successfully completed and published an End-to-End Customer Churn Analysis & Prediction Project
-
-✅ Data Cleaning & Preprocessing
-
-✅ Exploratory Data Analysis (EDA)
-
-✅ Interactive Power BI Dashboards
-
-✅ Business Insights Generation
-
-✅ Customer Retention Recommendations
-
----
-
 ## 🚀 Current Focus
 
 * 📊 Advanced Data Analytics
