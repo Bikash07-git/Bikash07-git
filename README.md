@@ -1,192 +1,175 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=220&section=header&text=Bikash%20Sagar%20Koiri&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%F0%9F%9A%80%20Data%20Analyst%20%7C%20Machine%20Learning%20%7C%20AI%20%7C%20Researcher&descFontSize=18&descAlignY=60&descAlign=50" width="100%" />
+<h1 align="center">Hi 👋, I'm Bikash Sagar Koiri</h1>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/bikashsk26/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:sagarbikash97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-    <a href="https://github.com/Bikash07-git"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
+<h3 align="center">🚀 Data Analyst | Machine Learning Enthusiast | Artificial Intelligence | Researcher</h3>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Turning+Data+into+Business+Insights;Building+Machine+Learning+Solutions;Power+BI+%7C+Python+%7C+SQL+%7C+AI;M.Tech+CSE+Student+at+BIT+Mesra;Data+Analytics+%7C+Business+Intelligence" alt="Typing SVG" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=750&lines=Turning+Data+into+Business+Insights;Building+Machine+Learning+Solutions;Power+BI+%7C+Python+%7C+SQL+%7C+AI;M.Tech+CSE+Student+at+BIT+Mesra;Data+Analytics+%7C+Business+Intelligence" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 **Education:** M.Tech in Computer Science & Engineering @ **BIT Mesra, Ranchi**
-* 📊 **Core Focus:** Data Analytics, Machine Learning, Artificial Intelligence & Business Intelligence
-* 🔍 **Approach:** Solving real-world industry problems through data-driven methodologies
-* 📈 **Mission:** Transforming complex raw datasets into actionable insights and strategic decisions
-* 🚀 **Building:** End-to-End Analytics Workflows, Predictive ML Models & Power BI Dashboards
+🎓 M.Tech (Computer Science & Engineering) at BIT Mesra, Ranchi
+
+📊 Passionate about Data Analytics, Machine Learning, Artificial Intelligence, and Business Intelligence
+
+🔍 Interested in solving real-world problems using data-driven approaches
+
+📈 Skilled in transforming raw data into actionable insights and business recommendations
+
+🚀 Actively building projects in Data Analytics, Machine Learning, Power BI, and AI
 
 ---
 
-## 🌟 Recent Milestone
+## 🌟 Recent Achievement
 
-<table>
-  <tr>
-    <td>
-      <h3>🚀 End-to-End Customer Churn Analysis & Prediction</h3>
-      <p>Successfully built, evaluated, and published a complete business intelligence & predictive pipeline:</p>
-      <ul>
-        <li>✅ <b>Data Engineering:</b> Robust data cleaning, handling nulls/outliers, and preprocessing</li>
-        <li>✅ <b>EDA:</b> In-depth exploratory analysis, churn behavioral trends, and feature correlations</li>
-        <li>✅ <b>BI Dashboards:</b> Interactive, multi-view Power BI dashboards with KPIs & drill-downs</li>
-        <li>✅ <b>Business Insights:</b> High-risk customer identification & churn driver analysis</li>
-        <li>✅ <b>Actionable Strategy:</b> Targeted customer retention programs with measurable ROI impact</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+🚀 Successfully completed and published an End-to-End Customer Churn Analysis & Prediction Project
+
+✅ Data Cleaning & Preprocessing
+
+✅ Exploratory Data Analysis (EDA)
+
+✅ Interactive Power BI Dashboards
+
+✅ Business Insights Generation
+
+✅ Customer Retention Recommendations
 
 ---
 
-## 🚀 Current Focus & 🎯 Career Interests
+## 🚀 Current Focus
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Current Focus</h3>
-      <ul>
-        <li>📊 <b>Advanced Data Analytics</b></li>
-        <li>📈 <b>Enterprise Power BI Dashboards</b></li>
-        <li>🤖 <b>Machine Learning & Deep Learning</b></li>
-        <li>🎙️ <b>Voice Pathology Detection Research</b></li>
-        <li>💼 <b>Data & Business Analytics Opportunities</b></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 Target Roles</h3>
-      <ul>
-        <li>💼 <b>Data Analyst</b></li>
-        <li>📊 <b>Business Analyst</b></li>
-        <li>🔬 <b>Data Scientist</b></li>
-        <li>🤖 <b>Machine Learning Engineer</b></li>
-        <li>🧠 <b>AI Engineer</b></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+* 📊 Advanced Data Analytics
+* 📈 Power BI Dashboard Development
+* 🤖 Machine Learning & Artificial Intelligence
+* 🎙️ Voice Pathology Detection Research
+* 💼 Data Analyst & Business Analyst Opportunities
 
 ---
 
 ## 🏆 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 Customer Churn Analysis & Prediction</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Project-End--to--End%20Analytics-blue?style=flat-square" />
-      </p>
-      <ul>
-        <li>Full lifecycle end-to-end Data Analytics project</li>
-        <li>Interactive Power BI dashboard architecture & DAX metrics</li>
-        <li>Customer segmentation & churn risk scoring</li>
-        <li>Executive reporting & retention playbooks</li>
-      </ul>
-      <p><b>🛠️ Tech Stack:</b> <code>Python</code> <code>Pandas</code> <code>NumPy</code> <code>Power BI</code> <code>Matplotlib</code> <code>Seaborn</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎙️ Voice Pathology Detection using ML</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Thesis-M.Tech%20Research-orange?style=flat-square" />
-      </p>
-      <ul>
-        <li>Research-based M.Tech Thesis at BIT Mesra</li>
-        <li>MFCC & LPCC acoustic feature extraction from voice samples</li>
-        <li>Machine Learning classification models for vocal health assessment</li>
-        <li>Healthcare AI diagnostic tooling</li>
-      </ul>
-      <p><b>🛠️ Tech Stack:</b> <code>Python</code> <code>Scikit-Learn</code> <code>Audio Signal Processing</code> <code>ML Algorithms</code></p>
-    </td>
-  </tr>
-</table>
+### 📊 Customer Churn Analysis & Prediction
+
+* End-to-End Data Analytics Project
+* Power BI Dashboard Development
+* Customer Segmentation & Churn Analysis
+* Business Insight Generation
+* Customer Retention Recommendations
+
+**Tech Stack:** Python, Pandas, NumPy, Power BI, Matplotlib, Seaborn
+
+---
+
+### 🎙️ Voice Pathology Detection using Machine Learning
+
+* Research-Based M.Tech Thesis
+* MFCC & LPCC Feature Extraction
+* Machine Learning Classification
+* Healthcare AI Application
+
+**Tech Stack:** Python, Scikit-Learn, Audio Signal Processing
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,mysql,cpp,pandas,numpy,matlab,r&perline=7" alt="Languages & Analytics" />
-    </a>
-  </p>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,git,github,vscode,postgres&perline=7" alt="ML & Developer Tools" />
-    </a>
-  </p>
-</div>
+### 💻 Languages
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
-| Domain | 3D Visual Stack |
-| :--- | :--- |
-| 💻 **Languages** | <img src="https://skillicons.dev/icons?i=python,mysql,cpp" height="40" alt="Languages" /> |
-| 📊 **Analytics & Computing** | <img src="https://skillicons.dev/icons?i=pandas,numpy,matlab,r" height="40" alt="Analytics" /> |
-| 📈 **Business Intelligence** | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" /> |
-| 🤖 **Machine Learning & AI** | <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" height="40" alt="Machine Learning" /> |
-| ⚙️ **Tools & Platforms** | <img src="https://skillicons.dev/icons?i=git,github,vscode,gcp,linux" height="40" alt="Tools" /> |
+### 📊 Data Analytics
 
-</div>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly)
 
----
+### 📈 Business Intelligence
 
-## 🌱 Currently Learning
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge)
 
-- 🧠 **Advanced Machine Learning**
-- 🧬 **Deep Learning & Neural Networks**
-- 🏗️ **Data Engineering & ETL Pipelines**
-- ⚙️ **MLOps & Model Deployment**
-- 📊 **Advanced Power BI & Enterprise DAX**
+### 🤖 Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge)
+![SVM](https://img.shields.io/badge/SVM-FF6F00?style=for-the-badge)
+
+### ⚙️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bikash07-git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash07-git&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bikash07-git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash07-git&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bikash07-git&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Bikash07-git&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
+
 ## 🔥 Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bikash07-git&theme=tokyonight" width="95%" alt="Profile Summary Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bikash07-git&theme=tokyonight"/>
 </p>
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Machine Learning
+* Deep Learning
+* Data Engineering
+* MLOps
+* Advanced Power BI
+
+---
+
+## 🎯 Career Interests
+
+* Data Analyst
+* Business Analyst
+* Data Scientist
+* Machine Learning Engineer
+* AI Engineer
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bikashsk26/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Bikash07-git">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="mailto:sagarbikash97@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+<p align="left">
+<a href="https://www.linkedin.com/in/bikashsk26/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/Bikash07-git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="mailto:sagarbikash97@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 </p>
 
 ---
 
-<div align="center">
-  <h3>🚀 Transforming Data into Decisions with Analytics, AI & Business Intelligence</h3>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=100&section=footer" width="100%" />
-</div>
+<h3 align="center">🚀 Transforming Data into Decisions with Analytics, AI & Business Intelligence</h3>
