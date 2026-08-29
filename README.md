@@ -1,48 +1,26 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Bikash Sagar Koiri</h1>
 
-  <!-- 3D Holographic Gradient Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=180&section=header&text=Bikash%20Sagar%20Koiri&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=M.Tech%20CSE%20%7C%20BIT%20Mesra&descFontSize=18&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+<h3 align="center">🚀 Data Analyst | Machine Learning Enthusiast | Artificial Intelligence | Researcher</h3>
 
-  <br/>
-
-  <!-- High-Contrast Terminal Subtitle -->
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00F2FE&center=true&vCenter=true&width=800&lines=⚡+Building+Intelligent+Data+Pipelines+%26+Predictive+Systems;🎯+Translating+High-Dimensional+Data+into+Strategic+Impact;🤖+M.Tech+CSE+@+BIT+Mesra+•+Data+Science+%26+Intelligent+Systems;🛠️+Python+•+PyTorch+•+Power+BI+•+Advanced+SQL" alt="Typing SVG" />
-  </p>
-
-  <!-- 3D Pill / High-Contrast Social Badges (No Portfolio) -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/bikashsk26/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="mailto:sagarbikash97@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/Bikash07-git">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=750&lines=Turning+Data+into+Business+Insights;Building+Machine+Learning+Solutions;Power+BI+%7C+Python+%7C+SQL+%7C+AI;M.Tech+CSE+Student+at+BIT+Mesra;Data+Analytics+%7C+Business+Intelligence" alt="Typing SVG" />
+</p>
 
 ---
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,14,23&height=120&section=header&text=⚡%20ABOUT%20ME&fontSize=32&fontColor=ffffff" width="100%" alt="About Me Header" />
-</div>
 
-<br>
+## 👨‍💻 About Me
 
-<div align="center">
+🎓 M.Tech (Computer Science & Engineering) at BIT Mesra, Ranchi
 
-```sql
-SELECT 
-    candidate_name   AS "Bikash Sagar Koiri",
-    current_status   AS "M.Tech CSE @ BIT Mesra",
-    specialization   AS "Applied Machine Learning & Advanced Analytics",
-    core_toolkit     AS ARRAY['Python', 'SQL', 'Power BI', 'Scikit-Learn'],
-    mission_statement AS "Transforming high-dimensional data into automated decision pipelines";
+📊 Passionate about Data Analytics, Machine Learning, Artificial Intelligence, and Business Intelligence
+
+🔍 Interested in solving real-world problems using data-driven approaches
+
+📈 Skilled in transforming raw data into actionable insights and business recommendations
+
+🚀 Actively building projects in Data Analytics, Machine Learning, Power BI, and AI
+
+---
 
 ## 🚀 Current Focus
 
