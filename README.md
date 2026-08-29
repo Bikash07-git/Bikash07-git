@@ -29,17 +29,54 @@
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" vertical-align="middle" /> About Me
 
-🎓 M.Tech (Computer Science & Engineering) at BIT Mesra, Ranchi
+<div align="left">
 
-📊 Passionate about Data Analytics, Machine Learning, Artificial Intelligence, and Business Intelligence
+<table style="border: none; background: transparent;">
+  <tr>
+    <td width="30" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="26" />
+    </td>
+    <td valign="middle">
+      <b>M.Tech in Computer Science & Engineering</b> at <b>BIT Mesra, Ranchi</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="30" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="26" />
+    </td>
+    <td valign="middle">
+      Specializing in <b>Data Science, Predictive Modeling, & Enterprise BI Systems</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="30" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Search" width="26" />
+    </td>
+    <td valign="middle">
+      Engineering robust algorithms to solve high-impact, real-world data challenges
+    </td>
+  </tr>
+  <tr>
+    <td width="30" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="26" />
+    </td>
+    <td valign="middle">
+      Architecting end-to-end pipelines that turn unstructured data into high-value decision metrics
+    </td>
+  </tr>
+  <tr>
+    <td width="30" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="26" />
+    </td>
+    <td valign="middle">
+      Actively building intelligent pipelines & interactive dashboards across <b>Python • ML • Power BI • SQL</b>
+    </td>
+  </tr>
+</table>
 
-🔍 Interested in solving real-world problems using data-driven approaches
-
-📈 Skilled in transforming raw data into actionable insights and business recommendations
-
-🚀 Actively building projects in Data Analytics, Machine Learning, Power BI, and AI
+</div>
 
 ---
 
