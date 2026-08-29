@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Bikash Sagar Koiri</h1>
 
-<h3 align="center">🚀 Data Analyst | Machine Learning Enthusiast | Artificial Intelligence | Researcher</h3>
+<p align="center">
+  <b>🎓 M.Tech CSE @ BIT Mesra</b> &nbsp;|&nbsp; 
+  <b>🚀 Data Analytics & Applied Machine Learning</b>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=750&lines=Turning+Data+into+Business+Insights;Building+Machine+Learning+Solutions;Power+BI+%7C+Python+%7C+SQL+%7C+AI;M.Tech+CSE+Student+at+BIT+Mesra;Data+Analytics+%7C+Business+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Architecting+End-to-End+ML+Pipelines;Transforming+Complex+Data+into+Actionable+Insights;Python+•+SQL+•+Power+BI+•+Deep+Learning;Exploring+Predictive+Modeling+%26+Intelligent+Systems" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
