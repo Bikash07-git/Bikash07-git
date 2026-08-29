@@ -1,19 +1,31 @@
-<h1 align="center">Hi 👋, I'm Bikash Sagar Koiri</h1>
+<div align="center">
 
-<p align="center">
-  <b>🎓 M.Tech CSE @ BIT Mesra</b> &nbsp;|&nbsp; 
-  <b>🚀 Data Analytics & Applied Machine Learning</b>
-</p>
+  <!-- 3D Holographic Gradient Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=180&section=header&text=Bikash%20Sagar%20Koiri&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=M.Tech%20CSE%20%7C%20BIT%20Mesra&descFontSize=18&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Architecting+End-to-End+ML+Pipelines;Transforming+Complex+Data+into+Actionable+Insights;Python+•+SQL+•+Power+BI+•+Deep+Learning;Exploring+Predictive+Modeling+%26+Intelligent+Systems" alt="Typing SVG" />
-</p>
+  <br/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-</p>
+  <!-- High-Contrast Terminal Subtitle -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00F2FE&center=true&vCenter=true&width=800&lines=⚡+Building+Intelligent+Data+Pipelines+%26+Predictive+Systems;🎯+Translating+High-Dimensional+Data+into+Strategic+Impact;🤖+M.Tech+CSE+@+BIT+Mesra+•+Data+Science+%26+Intelligent+Systems;🛠️+Python+•+PyTorch+•+Power+BI+•+Advanced+SQL" alt="Typing SVG" />
+  </p>
+
+  <!-- 3D Pill / High-Contrast Social Badges (No Portfolio) -->
+  <p align="center">
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:YOUR_EMAIL@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/YOUR_GITHUB_USERNAME">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+
+</div>
 
 ---
 
