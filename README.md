@@ -28,57 +28,21 @@
 </div>
 
 ---
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="35" vertical-align="middle" /> About Me
-
-<div align="left">
-
-<table style="border: none; background: transparent;">
-  <tr>
-    <td width="30" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="26" />
-    </td>
-    <td valign="middle">
-      <b>M.Tech in Computer Science & Engineering</b> at <b>BIT Mesra, Ranchi</b>
-    </td>
-  </tr>
-  <tr>
-    <td width="30" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="26" />
-    </td>
-    <td valign="middle">
-      Specializing in <b>Data Science, Predictive Modeling, & Enterprise BI Systems</b>
-    </td>
-  </tr>
-  <tr>
-    <td width="30" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Search" width="26" />
-    </td>
-    <td valign="middle">
-      Engineering robust algorithms to solve high-impact, real-world data challenges
-    </td>
-  </tr>
-  <tr>
-    <td width="30" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="26" />
-    </td>
-    <td valign="middle">
-      Architecting end-to-end pipelines that turn unstructured data into high-value decision metrics
-    </td>
-  </tr>
-  <tr>
-    <td width="30" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="26" />
-    </td>
-    <td valign="middle">
-      Actively building intelligent pipelines & interactive dashboards across <b>Python • ML • Power BI • SQL</b>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,14,23&height=120&section=header&text=⚡%20ABOUT%20ME&fontSize=32&fontColor=ffffff" width="100%" alt="About Me Header" />
 </div>
 
----
+<br>
+
+<div align="center">
+
+```sql
+SELECT 
+    candidate_name   AS "Bikash Sagar Koiri",
+    current_status   AS "M.Tech CSE @ BIT Mesra",
+    specialization   AS "Applied Machine Learning & Advanced Analytics",
+    core_toolkit     AS ARRAY['Python', 'SQL', 'Power BI', 'Scikit-Learn'],
+    mission_statement AS "Transforming high-dimensional data into automated decision pipelines";
 
 ## 🚀 Current Focus
 
