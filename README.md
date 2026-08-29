@@ -46,16 +46,6 @@
 
 ---
 
-### 🎙️ Voice Pathology Detection using Machine Learning
-
-* Research-Based M.Tech Thesis
-* MFCC & LPCC Feature Extraction
-* Machine Learning Classification
-* Healthcare AI Application
-
-**Tech Stack:** Python, Scikit-Learn, Audio Signal Processing
-
----
 
 ## 🛠️ Tech Stack
 
