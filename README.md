@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bikash Sagar Koiri</h1>
+<h1 align="center">Hi 👋, I'm Bikash Koiri</h1>
 
 <h3 align="center">🚀 Data Analyst | Machine Learning | Artificial Intelligence | ML Researcher</h3>
 
