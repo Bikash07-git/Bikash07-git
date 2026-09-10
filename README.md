@@ -44,3 +44,60 @@ Data Analyst • Machine Learning • Artificial Intelligence • ML Research
 />
 
 </div>
+
+
+
+
+---
+
+## 🧠 About Me
+
+<table>
+<tr>
+
+<td width="58%" valign="top">
+
+### 👋 Who am I?
+
+I'm **Bikash Sagar Koiri**, a Computer Science graduate passionate about turning **data into insights and ideas into intelligent solutions**.
+
+My interests sit at the intersection of:
+
+**📊 Data Analytics**  
+**🤖 Machine Learning**  
+**🧠 Artificial Intelligence**  
+**📈 Business Intelligence**
+
+I enjoy understanding real-world problems, exploring the data behind them, identifying meaningful patterns, and building solutions that can support better decisions.
+
+🎓 **M.Tech — Computer Science & Engineering**  
+Birla Institute of Technology, Mesra
+
+🎓 **B.Tech — Computer Science**  
+NIST University, Berhampur
+
+🔬 **ML Research • Applied AI • Data Analytics**
+
+</td>
+
+<td width="42%" valign="top">
+
+### ⚡ My Focus
+
+```text
+┌──────────────────────────┐
+│                          │
+│   📊 DATA                │
+│      ↓                   │
+│   🔎 ANALYTICS           │
+│      ↓                   │
+│   🤖 MACHINE LEARNING    │
+│      ↓                   │
+│   🧠 ARTIFICIAL          │
+│      INTELLIGENCE        │
+│      ↓                   │
+│   💡 INSIGHTS            │
+│      ↓                   │
+│   🚀 IMPACT              │
+│                          │
+└──────────────────────────┘
