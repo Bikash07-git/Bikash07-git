@@ -215,19 +215,118 @@ alt="Impact"
 
 </div>
 
+<!-- ========================================================= -->
+<!--                     CURRENT FOCUS                         -->
+<!-- ========================================================= -->
+
 ## 🚀 Current Focus
 
-* 📊 Data Analytics & Exploratory Data Analysis
-* 🗃️ SQL, Data Cleaning & Data Preprocessing
-* 📈 Power BI, DAX, Power Query & Business Intelligence
-* 🐍 Python for Data Analytics & Machine Learning
-* 🤖 Machine Learning & Artificial Intelligence
-* 🧠 AI-powered workflow and decision-support systems
-* 🎙️ Pathological Voice Disorder Detection Research
-* 📌 Building end-to-end analytical and AI applications
-* 💼 Data Analyst, Business Intelligence & Machine Learning opportunities
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Analyzing+Data;Building+ML+Models;Designing+AI+Workflows;Creating+Business+Intelligence;Turning+Insights+into+Impact"
+alt="Current Focus"
+/>
+
+<br><br>
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 📊
+## DATA
+
+`Data Analytics`
+
+`EDA`
+
+`SQL`
+
+`Data Cleaning`
+
+`Preprocessing`
+
+`Statistical Analysis`
+
+</td>
+
+<td align="center" width="33%">
+
+### 📈
+## INTELLIGENCE
+
+`Power BI`
+
+`DAX`
+
+`Power Query`
+
+`Machine Learning`
+
+`Python`
+
+`Model Evaluation`
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧠
+## AI
+
+`Artificial Intelligence`
+
+`LLM Applications`
+
+`AI Workflows`
+
+`Decision Support`
+
+`Intelligent Systems`
+
+`AI Engineering`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+</div>
 
 ---
+
+<div align="center">
+
+### 🔄 What I'm Building Toward
+
+```text
+             ┌──────────────┐
+             │     DATA     │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │   ANALYZE   │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │    MODEL     │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │     AI       │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │   INSIGHTS   │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │    IMPACT    │
+             └──────────────┘
 
 ## 🏆 Featured Projects
 
