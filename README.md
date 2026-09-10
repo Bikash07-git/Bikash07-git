@@ -54,42 +54,6 @@
 
 ---
 
-## 🏆 Featured Projects
-
-### 🤖 AI Project Stand-up & Risk Assistant
-
-An AI-powered project management workflow designed to transform employee stand-up updates into structured and actionable project intelligence.
-
-**Key Capabilities:**
-
-* 📝 Employee daily stand-up updates
-* 🤖 AI-powered update analysis
-* 📋 Task extraction
-* 🚧 Blocker detection
-* 🔗 Dependency identification
-* ⚠️ Risk assessment
-* 🎯 Confidence-aware AI insights
-* 💡 Recommended next actions
-* 👤 Human validation — Confirm / Edit / Reject / Resolve
-* 📊 Project health dashboard
-* 🧠 AI Copilot for project-related questions
-* 📈 Leadership metrics
-* 🎭 Demo Mode with seeded project data
-* 🔄 Context-aware project analysis
-
-**Tech Stack:**
-
-`Python` `FastAPI` `React` `Vite` `Tailwind CSS` `OpenAI API` `SQLite` `Pytest` `Git` `GitHub`
-
-🔗 **Repository:**  
-https://github.com/Bikash07-git/AI-Project-Standup-Risk-Assistant
-
----
-
-### 🎙️ Pathological Voice Disorder Detection — IEEE ETAACT'26
-
-Research project focused on detecting pathological voice disorders using acoustic features and machine learning.
-
 **Research Highlights:**
 
 * Developed a **Progressive Acoustic Stacking (PAS)** framework
@@ -105,71 +69,6 @@ Research project focused on detecting pathological voice disorders using acousti
 **Tech Stack:**
 
 `Python` `Librosa` `NumPy` `Pandas` `Scikit-learn` `SVM` `MFCC` `LPCC` `Formants` `Jitter` `Shimmer` `HNR`
-
----
-
-### 🩺 Chronic Kidney Disease Prediction
-
-Machine learning project for predicting Chronic Kidney Disease using clinical data.
-
-**Key Work:**
-
-* Exploratory Data Analysis
-* Missing value handling and imputation
-* Feature engineering
-* Machine learning model development
-* Hyperparameter optimization
-* K-fold cross-validation
-* Model evaluation
-* SHAP-based model explainability
-* Improved prediction accuracy from approximately **87% to 93%**
-
-**Tech Stack:**
-
-`Python` `Pandas` `NumPy` `Scikit-learn` `Decision Tree` `SHAP`
-
----
-
-### 📊 Customer Churn Analysis & Prediction
-
-End-to-end analytics project focused on understanding customer churn and generating actionable business insights.
-
-**Key Work:**
-
-* Data cleaning and preprocessing
-* Exploratory Data Analysis
-* Customer segmentation
-* Churn analysis
-* KPI development
-* Power BI dashboard development
-* DAX calculations
-* Business insight generation
-* Customer retention recommendations
-
-**Tech Stack:**
-
-`Python` `Pandas` `NumPy` `Power BI` `DAX` `Power Query` `Matplotlib` `Seaborn` `SQL` `Excel`
-
----
-
-### 📈 Sales & Demand Analytics
-
-End-to-end sales analytics project focused on understanding sales trends, KPIs, and demand patterns.
-
-**Key Work:**
-
-* Data cleaning
-* SQL-based analysis
-* Exploratory Data Analysis
-* KPI tracking
-* Trend analysis
-* Sales performance analysis
-* Excel dashboard development
-* Business insights
-
-**Tech Stack:**
-
-`Python` `SQL` `Excel` `Pandas` `NumPy` `Matplotlib`
 
 ---
 
@@ -337,35 +236,6 @@ Building end-to-end analytics projects involving:
 * Advanced SQL
 * Advanced Power BI & DAX
 * Data Engineering Fundamentals
-* MLOps Fundamentals
 * Production-oriented AI Application Development
 
 ---
-
-## 🎯 Career Interests
-
-* 📊 Data Analyst
-* 📈 Business Intelligence Analyst
-* 💼 Business Analyst
-* 🤖 Machine Learning Engineer
-* 🧠 AI Engineer
-* 🔬 ML Research Roles
-
----
-
-## 📌 What I Bring
-
-```text
-Data
-  ↓
-Cleaning & Exploration
-  ↓
-Analysis
-  ↓
-Machine Learning / AI
-  ↓
-Visualization
-  ↓
-Business Insights
-  ↓
-Actionable Decisions
