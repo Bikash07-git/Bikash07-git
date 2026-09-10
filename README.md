@@ -20,25 +20,200 @@
 
 ---
 
+<!-- ========================================================= -->
+<!--                       ABOUT ME                            -->
+<!-- ========================================================= -->
+
 ## 👨‍💻 About Me
 
-🎓 **M.Tech in Computer Science & Engineering** from BIT Mesra, Ranchi
+<div align="center">
 
-💻 **B.Tech in Computer Science** from NIST University, Berhampur, Odisha
+<table>
+<tr>
 
-📊 Passionate about **Data Analytics, Machine Learning, Artificial Intelligence, and Business Intelligence**
+<td width="55%" valign="top">
 
-🔍 Interested in solving real-world problems using **data-driven and AI-powered approaches**
+### 🚀 Who Am I?
 
-📈 Experienced in transforming raw data into **actionable insights, dashboards, predictions, and business recommendations**
+🎓 **M.Tech in Computer Science & Engineering**  
+`BIT Mesra, Ranchi`
 
-🤖 Currently building practical **AI-powered applications and intelligent workflow solutions**
+💻 **B.Tech in Computer Science**  
+`NIST University, Berhampur`
 
-🔬 Published/accepted research work in **Pathological Voice Disorder Detection**
+<br>
 
-🚀 Interested in opportunities across **Data Analytics, Business Intelligence, Machine Learning, and AI**
+📊 **Data Analytics**  
+🤖 **Machine Learning**  
+🧠 **Artificial Intelligence**  
+📈 **Business Intelligence**  
+🔬 **ML Research**
 
----
+<br>
+
+I enjoy transforming **raw data into meaningful insights**, building **machine learning solutions**, and exploring how **AI can make real-world workflows smarter and more efficient**.
+
+<br>
+
+🔍 **My mindset**
+
+> **Understand → Analyze → Build → Validate → Improve**
+
+</td>
+
+<td width="45%" align="center" valign="middle">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=12,14,18,20,24&height=250&section=header&text=DATA%20×%20AI&fontSize=38&fontColor=ffffff&animation=fadeIn"
+width="100%"
+alt="Data and AI"
+/>
+
+<br>
+
+<img
+src="https://skillicons.dev/icons?i=python,mysql,sklearn&theme=dark"
+width="90%"
+alt="Core Technologies"
+/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🧬 My Core Identity
+
+<table>
+<tr>
+
+<td align="center">
+
+### 📊
+**DATA**
+
+<br>
+
+`SQL`  
+`Python`  
+`EDA`  
+`Statistics`
+
+</td>
+
+<td align="center">
+
+### 🤖
+**LEARN**
+
+<br>
+
+`ML`  
+`Feature Engineering`  
+`Evaluation`  
+`Explainability`
+
+</td>
+
+<td align="center">
+
+### 🧠
+**INTELLIGENCE**
+
+<br>
+
+`AI`  
+`LLMs`  
+`AI Workflows`  
+`Decision Support`
+
+</td>
+
+<td align="center">
+
+### 🚀
+**IMPACT**
+
+<br>
+
+`Insights`  
+`Dashboards`  
+`Predictions`  
+`Decisions`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Data+%E2%86%92+Insights;Insights+%E2%86%92+Intelligence;Intelligence+%E2%86%92+Decisions;Decisions+%E2%86%92+Impact"
+alt="Data to Impact"
+/>
+
+</div>
+
+<br>
+
+<details>
+<summary><b>🧠 More about my approach</b></summary>
+
+<br>
+
+I am interested in solving real-world problems using **data-driven and AI-powered approaches**.
+
+My focus is on combining analytical thinking with practical implementation:
+
+- 📊 Explore and understand data
+- 🔎 Identify patterns and meaningful relationships
+- 🧹 Clean and prepare data for analysis
+- 🤖 Build and evaluate machine learning models
+- 🧠 Explore AI and LLM-powered solutions
+- 📈 Communicate insights through dashboards and visualizations
+- 🎯 Translate technical findings into actionable decisions
+- 🔄 Continuously improve solutions through experimentation
+
+</details>
+
+<br>
+
+<div align="center">
+
+### 💡 My Philosophy
+
+<img
+src="https://img.shields.io/badge/DATA-Understand-0D1117?style=for-the-badge&logo=databricks&logoColor=38BDF8"
+alt="Data"
+/>
+
+<img
+src="https://img.shields.io/badge/ML-Discover-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"
+alt="Machine Learning"
+/>
+
+<img
+src="https://img.shields.io/badge/AI-Amplify-0D1117?style=for-the-badge&logo=openai&logoColor=white"
+alt="Artificial Intelligence"
+/>
+
+<img
+src="https://img.shields.io/badge/IMPACT-Create-0D1117?style=for-the-badge&logo=rocket&logoColor=38BDF8"
+alt="Impact"
+/>
+
+</div>
 
 ## 🚀 Current Focus
 
