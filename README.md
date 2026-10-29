@@ -1,241 +1,27 @@
-<h1 align="center">Hi 👋, I'm Bikash Sagar Koiri</h1>
+# 💫 About Me:
+🔭 I’m currently working on  DataPilot — an AI-powered Analytics Copilot<br><br>👯 I’m looking to collaborate on  Data Analytics, AI Agents, and Machine Learning projects<br><br>🤝 I’m looking for help with  Building scalable AI-powered analytics applications<br><br>🌱 I’m currently learning  Generative AI, LLM Applications, and Production-Ready AI Systems<br><br>💬 Ask me about  Python, SQL, Power BI, Exploratory Data Analysis, Machine Learning, and AI-driven Analytics<br><br>⚡ Fun fact:  I published an IEEE research paper on Pathological Voice Disorder Detection using Machine Learning!
 
-<h3 align="center">🚀 Data Analyst | Machine Learning | Artificial Intelligence | ML Researcher</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=800&lines=Turning+Data+into+Business+Insights;Building+Machine+Learning+Solutions;Power+BI+%7C+Python+%7C+SQL+%7C+AI;Building+AI-Powered+Project+Management+Solutions;ML+Research+%7C+Data+Analytics+%7C+Business+Intelligence" alt="Typing SVG" />
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bikashsk26/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/kbikash26) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sagarbikash97@gmail.com) 
 
-<p align="center">
-  <a href="https://github.com/Bikash07-git">
-    <img src="https://img.shields.io/badge/GitHub-Bikash07--git-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/bikashsk26/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bikash%20Koiri-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:sagarbikash97@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Bikash07-git&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Bikash07-git&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bikash07-git&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Bikash07-git&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 👨‍💻 About Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🎓 **M.Tech in Computer Science & Engineering** from BIT Mesra, Ranchi
-
-💻 **B.Tech in Computer Science** from NIST University, Berhampur, Odisha
-
-📊 Passionate about **Data Analytics, Machine Learning, Artificial Intelligence, and Business Intelligence**
-
-🔍 Interested in solving real-world problems using **data-driven and AI-powered approaches**
-
-📈 Experienced in transforming raw data into **actionable insights, dashboards, predictions, and business recommendations**
-
-🤖 Currently building practical **AI-powered applications and intelligent workflow solutions**
-
-🔬 Published/accepted research work in **Pathological Voice Disorder Detection**
-
-🚀 Interested in opportunities across **Data Analytics, Business Intelligence, Machine Learning, and AI**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Bikash07-git&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Bikash07-git&icon=6&color=7)](https://visitcount.itsvg.in)
 
-## 🚀 Current Focus
-
-* 📊 Data Analytics & Exploratory Data Analysis
-* 🗃️ SQL, Data Cleaning & Data Preprocessing
-* 📈 Power BI, DAX, Power Query & Business Intelligence
-* 🐍 Python for Data Analytics & Machine Learning
-* 🤖 Machine Learning & Artificial Intelligence
-* 🧠 AI-powered workflow and decision-support systems
-* 🎙️ Pathological Voice Disorder Detection Research
-* 📌 Building end-to-end analytical and AI applications
-* 💼 Data Analyst, Business Intelligence & Machine Learning opportunities
-
----
-
-**Research Highlights:**
-
-* Developed a **Progressive Acoustic Stacking (PAS)** framework
-* Combined acoustic feature groups progressively
-* Used **MFCC, LPCC, Formant and Voice Quality features**
-* Applied speaker-level evaluation
-* Used posterior probability aggregation across utterances
-* Evaluated multiple machine learning models
-* SVM selected for the final classification system
-* Achieved **87.32% speaker-level accuracy**
-* Research accepted at **IEEE ETAACT'26**
-
-**Tech Stack:**
-
-`Python` `Librosa` `NumPy` `Pandas` `Scikit-learn` `SVM` `MFCC` `LPCC` `Formants` `Jitter` `Shimmer` `HNR`
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
----
-
-### 📊 Data Analytics
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
----
-
-### 📈 Business Intelligence
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
----
-
-### 🤖 Machine Learning & AI
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge)
-![SVM](https://img.shields.io/badge/SVM-FF6F00?style=for-the-badge)
-![SHAP](https://img.shields.io/badge/SHAP-Model_Explainability-8A2BE2?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
----
-
-### 🎙️ Speech & Audio ML
-
-![Librosa](https://img.shields.io/badge/Librosa-Audio_Analysis-FF6F00?style=for-the-badge)
-
-**Techniques:**
-
-`MFCC` `LPCC` `Formant Analysis` `Jitter` `Shimmer` `HNR` `Acoustic Feature Engineering`
-
----
-
-### 🌐 AI Application Development
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-### 🧪 Testing & Development
-
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
----
-
-## 🧠 Core Skills
-
-### Data Analytics
-
-`EDA` `Data Cleaning` `Data Preprocessing` `Statistical Analysis` `Trend Analysis` `Forecasting` `KPI Reporting`
-
-### SQL & Databases
-
-`MySQL` `Joins` `Subqueries` `CTEs` `Window Functions` `Aggregations` `Query Optimization`
-
-### Power BI
-
-`Dashboard Development` `Power Query` `DAX` `Data Modeling` `KPI Design` `Business Reporting`
-
-### Machine Learning
-
-`Classification` `Regression` `Feature Engineering` `Model Evaluation` `Cross-Validation` `Hyperparameter Tuning` `SHAP`
-
-### AI & Intelligent Applications
-
-`LLM Integration` `AI Workflow Design` `AI-Assisted Decision Support` `Human-in-the-Loop AI` `Confidence-Aware AI` `AI Copilot`
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bikash07-git&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Bikash's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bikash07-git&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bikash07-git&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🔥 Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bikash07-git&theme=tokyonight" alt="GitHub Profile Summary"/>
-</p>
-
----
-
-## 🧪 Recent Work
-
-### 🤖 AI-Powered Project Management
-
-Built an AI Project Stand-up & Risk Assistant using:
-
-`React` `Vite` `FastAPI` `Python` `OpenAI API` `Tailwind CSS` `SQLite`
-
-The application demonstrates:
-
-- AI-powered stand-up analysis
-- Task and blocker extraction
-- Risk assessment
-- Confidence-aware insights
-- Human validation
-- Project health monitoring
-- AI Copilot
-- Leadership metrics
-- Controlled escalation
-
----
-
-### 🔬 ML Research
-
-Working on machine learning approaches for pathological voice disorder detection using acoustic feature engineering and speaker-level evaluation.
-
-Key techniques include:
-
-`MFCC` `LPCC` `Formants` `Jitter` `Shimmer` `HNR` `SVM` `Progressive Acoustic Stacking`
-
----
-
-### 📊 Data Analytics
-
-Building end-to-end analytics projects involving:
-
-`Python` `SQL` `Excel` `Power BI` `DAX` `Data Cleaning` `EDA` `KPI Analysis`
-
----
-
-## 🌱 Currently Learning
-
-* Advanced Machine Learning
-* Artificial Intelligence & LLM Applications
-* AI-Powered Workflow Automation
-* Advanced SQL
-* Advanced Power BI & DAX
-* Data Engineering Fundamentals
-* Production-oriented AI Application Development
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
